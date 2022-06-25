@@ -1,0 +1,8 @@
+.title{
+    color: aqua;
+    text-align: center;
+}
+.border{
+    border-style: double;
+    border-width: 2;
+}
