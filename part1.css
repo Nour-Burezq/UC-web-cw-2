@@ -6,3 +6,18 @@
     border-style: double;
     border-width: 2;
 }
+.card{
+    width: 500px;
+    background-color: rgb(138, 255, 243);
+    text-align: center;
+}
+#dish-name {
+color: white;
+
+}
+.line{
+    border-bottom: 5px solid black;
+            margin-top: 5px;
+            width: 81%;}
+
+          
